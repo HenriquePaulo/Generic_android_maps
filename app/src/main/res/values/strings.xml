@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">I Am Here</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="google_maps_key">AIzaSyA98eFhIs06uHiAFVXwlz7TdiMsJLNcIM0</string>
+
+
+</resources>
